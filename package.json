@@ -1,0 +1,23 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "node_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "GAO",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "mynode",
+  "description": "node_test",
+  "main": "index.js",
+  "authors": [
+    "GAO"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.7.2",
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.1.2"
+  }
+}
